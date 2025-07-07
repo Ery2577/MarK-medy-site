@@ -6,5 +6,6 @@ C'est une groupe de personne qui fait une `COMÉDIE MUSICALE`
 
 
 
-# AUTEUR et CRÉATEUR DU SITE de MarKômedy
+
+## AUTEUR et CRÉATEUR DU SITE de MarKômedy
 RAMAHERITO Heriniaina 
